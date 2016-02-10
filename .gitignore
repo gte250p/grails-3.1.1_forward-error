@@ -1,0 +1,5 @@
+.asscache
+.gradle
+*.iml
+.idea
+
